@@ -7,11 +7,11 @@
     <Transaction>2013/06/24 13:22:05.000.029,=d:\projects\Unit1.pas</Transaction>
     <Transaction>2013/07/21 05:27:55.000.997,=d:\projects\Unit1.pas</Transaction>
     <Transaction>2013/07/23 02:43:05.000.442,=d:\projects\Unit1.pas</Transaction>
-    <Transaction>2013/08/16 12:54:22.962,=d:\projects\Unit1.pas</Transaction>
-    <Transaction>2013/08/16 12:54:48.320,D:\projects\delphipascal.com\codesamples\get-teamviewer-id\FormMain.dfm=d:\projects\Unit1.dfm</Transaction>
-    <Transaction>2013/08/16 12:54:48.320,D:\projects\delphipascal.com\codesamples\get-teamviewer-id\FormMain.pas=d:\projects\Unit1.pas</Transaction>
-    <Transaction>2013/08/16 12:56:31.109,D:\projects\delphipascal.com\codesamples\get-teamviewer-id\SampleDemo.dproj=d:\projects\Project1.dproj</Transaction>
-    <Transaction>2013/08/16 12:56:44.687,=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\Unit1.pas</Transaction>
-    <Transaction>2013/08/16 12:56:54.281,D:\projects\delphipascal.com\codesamples\get-teamviewer-id\TeamViewer.pas=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\Unit1.pas</Transaction>
+    <Transaction>2013/08/16 12:54:22.000.962,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/16 12:54:48.000.320,d:\projects\Unit1.dfm=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\FormMain.dfm</Transaction>
+    <Transaction>2013/08/16 12:54:48.000.320,d:\projects\Unit1.pas=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\FormMain.pas</Transaction>
+    <Transaction>2013/08/16 12:56:31.000.109,d:\projects\Project1.dproj=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\SampleDemo.dproj</Transaction>
+    <Transaction>2013/08/16 12:56:44.000.687,=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\Unit1.pas</Transaction>
+    <Transaction>2013/08/16 12:56:54.000.281,D:\projects\delphipascal.com\codesamples\get-teamviewer-id\Unit1.pas=D:\projects\delphipascal.com\codesamples\get-teamviewer-id\TeamViewer.pas</Transaction>
   </Transactions>
 </BorlandProject>

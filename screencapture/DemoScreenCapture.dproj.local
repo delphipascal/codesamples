@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/19 14:11:15.000.512,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/06/20 21:46:13.000.333,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/06/24 02:56:09.000.317,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/06/24 13:22:05.000.029,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/07/21 05:27:55.000.997,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/07/23 02:43:05.000.442,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/17 02:23:41.000.501,=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/17 02:24:23.000.090,D:\projects\delphipascal.com\codesamples\screencapture\FormMain.pas=d:\projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/17 02:24:23.000.090,D:\projects\delphipascal.com\codesamples\screencapture\FormMain.dfm=d:\projects\Unit1.dfm</Transaction>
+    <Transaction>2013/08/17 02:24:34.000.594,D:\projects\delphipascal.com\codesamples\screencapture\DemoScreenCapture.dproj=d:\projects\Project1.dproj</Transaction>
+    <Transaction>2013/08/17 02:25:17.000.904,=D:\projects\delphipascal.com\codesamples\screencapture\Unit1.pas</Transaction>
+    <Transaction>2013/08/17 02:25:29.000.381,D:\projects\delphipascal.com\codesamples\screencapture\ScreenCapture.pas=D:\projects\delphipascal.com\codesamples\screencapture\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
